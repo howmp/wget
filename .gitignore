@@ -51,6 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 !wget.exe
+!wgetmini.exe
 *.ncb
 *.opt
+*.plg
 Release/
